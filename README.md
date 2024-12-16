@@ -28,3 +28,4 @@ Power Checker
 Chaos Services
 
 ReDes LowChat
+# ⚠SATTIĞIM PROJELERİN SORUMLULUĞU SAHİBİNE AİTTİR⚠
