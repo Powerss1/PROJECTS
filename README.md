@@ -19,6 +19,8 @@ Aras Store / E-pin Satış Sitesi
 
 # YAPIM AŞAMASINDAKİ PROJELER
 
+Arass Teknoloji ve Bilişim Hizmetleri / Hosting çözümleri
+
 Power Upload / Dosya Depolama Servisi
 
 # SATILMIŞ PROJELER
