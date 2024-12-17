@@ -5,6 +5,10 @@ Cv2 / Kamera ile şahıs tanıma
 
 İslami Asistan Jarvis v2.2 / Sesli Asistan 
 
+Macarov / Uzaktan ping sistemleri
+
+NOPS / Otomasyon ve uyarı sistemleri
+
 # #POWER İŞBİRLİĞİ
 
 PowerMC / Minecraft Server Projesi
