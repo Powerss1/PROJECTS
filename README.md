@@ -21,6 +21,22 @@ Power Uptime / Yeni başlayanlara sunduğum uptime hizmeti
 
 Aras Store / E-pin Satış Sitesi
 
+# #POWER DİSCORD TOOLS
+
+Scythe MultiTool #POWER / Unauthorized tool
+
+Phoenix Tool #POWER / Unauthorized tool
+
+Gang Nuker Tool #POWER / Unauthorized tool
+
+Daiho Tool #POWER / Unauthorized tool
+
+Zero Tool #POWER / Unauthorized tool
+
+Xvirus Tool #POWER / Unauthorized tool
+## ! GELİŞTİRDİĞİM TOOLLAR HAKKINDA BİLGİ VERMİYORUM !
+
+
 # YAPIM AŞAMASINDAKİ PROJELER
 
 Arass Teknoloji ve Bilişim Hizmetleri / Hosting çözümleri
